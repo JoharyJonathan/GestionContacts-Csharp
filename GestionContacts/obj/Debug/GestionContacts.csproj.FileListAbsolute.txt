@@ -1,0 +1,11 @@
+E:\C# projects\GestionContacts\GestionContacts\bin\Debug\GestionContacts.exe.config
+E:\C# projects\GestionContacts\GestionContacts\bin\Debug\GestionContacts.exe
+E:\C# projects\GestionContacts\GestionContacts\bin\Debug\GestionContacts.pdb
+E:\C# projects\GestionContacts\GestionContacts\obj\Debug\GestionContacts.csprojResolveAssemblyReference.cache
+E:\C# projects\GestionContacts\GestionContacts\obj\Debug\GestionContacts.Properties.Resources.resources
+E:\C# projects\GestionContacts\GestionContacts\obj\Debug\GestionContacts.csproj.GenerateResource.Cache
+E:\C# projects\GestionContacts\GestionContacts\obj\Debug\GestionContacts.exe
+E:\C# projects\GestionContacts\GestionContacts\obj\Debug\GestionContacts.pdb
+E:\C# projects\GestionContacts\GestionContacts\bin\Debug\Newtonsoft.Json.dll
+E:\C# projects\GestionContacts\GestionContacts\bin\Debug\Newtonsoft.Json.xml
+E:\C# projects\GestionContacts\GestionContacts\obj\Debug\GestionContacts.Form1.resources
